@@ -171,6 +171,7 @@
   border: 1px solid #ffffff99;
   border-radius: 12px;
   transition: 0.2s;
+  margin-right: 10px;
 }
 
 .header__btn:hover {
