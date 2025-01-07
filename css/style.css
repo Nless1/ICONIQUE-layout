@@ -1294,6 +1294,9 @@ text-shadow:
     bottom: 0%;
 }
   /* =========================== */
+  .footer__inner {
+    padding: 40px 0px;
+  }
   .copyright-text{
     display: flex;
     flex-direction: column;
