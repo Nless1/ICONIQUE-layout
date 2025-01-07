@@ -1026,7 +1026,6 @@ text-shadow:
   }
   .header-mobile {
     display: flex;
-    gap: 20px;
   }
   .mobile-btn {
     display: block;
@@ -1204,7 +1203,7 @@ text-shadow:
   .header-mobile {
     flex-direction: column-reverse;
     align-items: end;
-    gap: 0;
+    gap: 10px;
   }
   /* ================================== */
   .main__hero {
