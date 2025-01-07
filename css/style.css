@@ -1090,6 +1090,9 @@ text-shadow:
   }
 }
 @media (max-width: 800px){
+  .main__hero {
+    padding-top: 200px;
+  }
   .hero__decor img:nth-child(7) {
     top: 38%;
   }
@@ -1203,6 +1206,9 @@ text-shadow:
     gap: 0;
   }
   /* ================================== */
+  .main__hero {
+    padding-top: 170px;
+  }
   .hero__decoration img {
     width: 177.7%;
   }
