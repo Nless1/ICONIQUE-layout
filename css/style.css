@@ -1,9 +1,6 @@
-@import "fonts.css";
+@import "stylesheet.css";
 @import "reset.css";
 @import "global.css";
-
-@import "header.css";
-@import "footer.css";
 
 .header {
   position: fixed;
