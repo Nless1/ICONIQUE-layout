@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Saira';
     src: local('Saira SemiCondensed Medium'), local('SairaSemiCondensed-Medium'),
-        url('../fontsSairaSemiCondensed-Medium.woff2') format('woff2'),
+        url('../fonts/SairaSemiCondensed-Medium.woff2') format('woff2'),
         url('../fonts/SairaSemiCondensed-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
@@ -42,7 +42,7 @@
 @font-face {
     font-family: 'Saira';
     src: local('Saira SemiCondensed Medium'), local('SairaSemiCondensed-Medium'),
-        url('../fontsSairaSemiCondensed-Medium.woff2') format('woff2'),
+        url('../fonts/SairaSemiCondensed-Medium.woff2') format('woff2'),
         url('../fonts/SairaSemiCondensed-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
